@@ -915,6 +915,7 @@ body.lock{
 }
 
 .input{
+  overflow: hidden;
   background-color: transparent;
   height: 50px;
   width: 530px;
